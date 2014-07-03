@@ -1,0 +1,8 @@
+[Error] InternetReadFile failed (code=12002, tick=10547, logging=no, chunk=0, buffer=10240, written=20480, total=24719, file=patchRE.txt).
+[Notice] Begin transfer logging.
+[Notice] Attempting to proceed with smaller buffer (-> 1024).
+[Notice] InternetReadFile succeeded (tick=0, chunk=0, buffer=1024, written=20480, total=24719, file=patchRE.txt).
+[Error] InternetReadFile failed (code=12002, tick=10953, logging=no, chunk=0, buffer=10240, written=20480, total=26052, file=patchRE.txt).
+[Notice] Begin transfer logging.
+[Notice] Attempting to proceed with smaller buffer (-> 1024).
+[Notice] InternetReadFile succeeded (tick=0, chunk=0, buffer=1024, written=20480, total=26052, file=patchRE.txt).

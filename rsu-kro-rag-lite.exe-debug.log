@@ -1,0 +1,4 @@
+[Error] InternetReadFile failed (code=12002, tick=8594, logging=no, chunk=0, buffer=10240, written=194560, total=419105, file=2014-06-11_main_hshield1.rgz).
+[Notice] Begin transfer logging.
+[Notice] Attempting to proceed with smaller buffer (-> 1024).
+[Error] InternetReadFile failed (code=12111, tick=0, logging=yes, chunk=0, buffer=1024, written=194560, total=419105, file=2014-06-11_main_hshield1.rgz).
